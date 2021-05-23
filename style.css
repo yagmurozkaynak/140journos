@@ -1,0 +1,44 @@
+nav {
+    background-color: #190F6E;
+}
+
+.fa {
+    color: #fff;
+}
+
+nav span {
+    margin-right: 20px;
+}
+
+nav span button {
+    background-color: #190F6E;
+}
+
+.navbar .logo {
+    min-height: 90px;
+}
+
+.card-span {
+    font-size: 14px;
+}
+
+.card-img-overlay {
+    position: absolute;
+    left: 60px!important;
+    top: 230px!important;
+}
+
+.card-img-overlay h1 {
+    font-size: 30px;
+}
+
+.ustalansol {
+    margin: 0px;
+    padding: 0px;
+}
+
+.imgbosluk {
+    margin-left: -45px;
+    padding: 0px;
+    /* z-index: -999px; */
+}
